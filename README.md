@@ -56,7 +56,8 @@ Set Time
 
 ◦ A long press of UP Key should take you back to main menu.
 
-Event Capture
+* Event Capture
+
 ◦ Required events have to be captured and stored in the memory.
 
 ◦ Every event should have a format as “EVENT SIGNATURE” “EVENT TIME” “SPEED AT THE EVENT”
