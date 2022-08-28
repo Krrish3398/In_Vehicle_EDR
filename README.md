@@ -56,7 +56,7 @@ Set Time
 
 ◦ A long press of UP Key should take you back to main menu.
 
-#* Event Capture
+*# Event Capture
 
 ◦ Required events have to be captured and stored in the memory.
 
