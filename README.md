@@ -13,3 +13,21 @@ Login Screen
 ◦ Each press should be denoted a "*" symbol.
 ◦ Every wrong entry would, re prompt for password (Max 3 times for every 15 minutes).
 ◦ Incomplete key press (pause of 3 seconds) would lead to Default Screen.
+
+Main Menu
+◦ The main menu should contain 2 option
+▪ View Log
+▪ Set Time
+◦ The UP / DOWN keys are used to navigate
+◦ A long press of UP Key should enter the selected menu
+◦ A long press of DOWN Key should logout
+◦ Idle screen for more than 5 secs should logout
+
+View Log
+
+◦ Should display all the events captured with log index starting from 0, like “EVENT NUMBER” “EVENT SIGNATURE” “EVENT TIME” “SPEED AT THE EVENT”
+◦ The UP and DOWN key will be used to scroll the entries
+◦ Rollover on reaching the max log entries
+◦ The system should be live (capture events occurred) even while viewing the log
+◦ A long press of UP Key should take you back to main menu
+◦ A long press of DOWN Key should logout
